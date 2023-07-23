@@ -37,14 +37,14 @@ params:
     bing:
       SiteVerificationTag: # Bing Site Verification
   env: production
-  author: Your Name
+  author: Sherrie Gossett
   description: Your website description
   math: false
   images:
   - "/uploads/og.webp"
   label:
     title: _RuralNH.org_
-    text: Welcome to Piko
+    text: Welcome to RuralNH.org
     lightNavIcon: /uploads/sun.svg
     darkNavIcon: /uploads/zap.svg
     iconHeight: "35"
@@ -74,7 +74,7 @@ params:
     # Hero Section
     disableHeroSection: false
     heroUpperTitle: 
-    heroTitle: Piko
+    heroTitle: RuralNH.org
     heroDescription: Lightweight theme for your every need
     heroCTAPrimaryText: Blog
     heroCTAPrimaryUrl: "/blog/"
