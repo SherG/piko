@@ -1,7 +1,7 @@
 ---
 baseURL: https://piko-heksagon.netlify.app/
 languageCode: en-us
-title: Piko
+title: RuralNH.org
 theme: piko
 paginate: "9"
 copyright: A template by [Heksagon](https://www.heksagon.net "Your most friendly developer")
@@ -43,7 +43,7 @@ params:
   images:
   - "/uploads/og.webp"
   label:
-    title: _Piko Title_
+    title: _RuralNH.org_
     text: Welcome to Piko
     lightNavIcon: /uploads/sun.svg
     darkNavIcon: /uploads/zap.svg
